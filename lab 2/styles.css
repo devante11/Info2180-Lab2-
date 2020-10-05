@@ -1,0 +1,83 @@
+* {
+    font-size:18px;
+    
+    font-family:
+}
+
+.willy1{
+    border-radius: 100%;
+}
+    
+
+.header {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color:#ffff;
+    background-color:#63B3ED;
+}
+
+
+.forGrid {
+    display:grid;
+    grid-template-columns: 70% 30%;
+    grid-gap:2em;
+}
+
+.headerName{
+    font-size:36px;
+    font-size:  Georgia, 'Times New Roman', Times, serif;
+}
+
+.blogtitle1 {
+    font-size:32px;
+    color:#48BB78;
+}
+
+.love {
+    color:#718096;
+}
+
+.asidehead1 {
+    color: #48BB78;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+ a {
+    color:#4299E1;
+    text-decoration:none;
+}
+.about {
+    color: #000000;
+    background-color:#E2E8F0;
+    padding:10px;
+}
+
+
+
+ul {
+    list-style:none;
+}
+
+
+
+.about {
+    width:200px;
+    margin-top:10px;
+}
+
+#first-blog-img {
+    float:right;
+}
+
+#second-blog-img {
+    float:left;
+    margin:10px;
+}
+
+footer {
+    background-color: #2C5282;
+    color:#ffff;
+    text-align:center;
+
+}
